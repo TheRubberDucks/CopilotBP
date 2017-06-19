@@ -1,0 +1,16 @@
+boto3
+botocore
+dlib
+Flask
+googlemaps
+imutils
+numpy
+pandas
+pygame
+requests
+scikit-image
+scikit-learn
+scipy
+sklearn
+SpeechRecognition
+twilio
