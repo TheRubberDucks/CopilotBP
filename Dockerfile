@@ -12,7 +12,8 @@ RUN apt-get update && apt-get install -y \
     build-essential cmake \
     libgtk-3-dev \
     libboost-all-dev \
-    python-pyaudio
+    python-pyaudio \
+    vim
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --upgrade pip && pip install -r requirements.txt
