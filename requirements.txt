@@ -1,4 +1,5 @@
 boto3
+certifi
 botocore
 dlib
 Flask
